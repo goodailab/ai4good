@@ -2,3 +2,4 @@ title: "AI for Good Lab"
 description: "Research in AI, Geometric Methods for Social Good Applications"
 theme: jekyll-theme-cayman  # Or any other Jekyll theme you prefer
 url: "https://ai4good.github.io"
+baseurl: ""
